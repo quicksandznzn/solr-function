@@ -13,4 +13,5 @@ solr version 8.0.0
 <valueSourceParser class="org.quicksandzn.solr.function.TagMatchValueSourceParser" name="tag_match"/>
 ```
 4. solr restart -c -p 8888
+   solr restart -c -p 8889
 
