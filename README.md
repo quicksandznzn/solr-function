@@ -1,5 +1,7 @@
 # solr-function
 
+Custom Solr FunctionQueries
+
 solr version 8.0.0
 
 1. mvn clean install
